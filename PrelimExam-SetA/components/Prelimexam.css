@@ -1,0 +1,13 @@
+h1, h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    font-size: 50px;
+}
+
+.Take {
+    background-color: green;
+}
+
+.NotTake {
+    background-color: red;
+}
